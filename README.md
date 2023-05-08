@@ -24,3 +24,6 @@
 ![mysql](https://raw.githubusercontent.com/gist/Eduardokopp/ea66ce26ff3ad850c7a24c06c3b76a67/raw/c710433b4fee02d2e44d95ae056dc7633efae5be/mysql-icon.svg)&nbsp;
 ![sql-server](https://raw.githubusercontent.com/gist/Eduardokopp/9e7872ba3ca293ee1e71362dc5edbb4f/raw/047773d458f688e485a26f6b9b0594457148cbdf/sql-server-icon.svg)&nbsp;
 ![figma](https://raw.githubusercontent.com/gist/Eduardokopp/67bcc9f3eae2c70de7890d95c5d9bfa5/raw/8a316f35a88561486b3566b06e6509949bfe78d7/figma-icon.svg)&nbsp;
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardokopp&layout=compact&langs_count=7&theme=github_dark"/>
