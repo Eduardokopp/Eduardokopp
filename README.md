@@ -8,9 +8,9 @@
 </p>
 
 ### :book: Sobre mim
-- 🎓 Cursando Técnico em Desenvolvimento de Sistemas
+- 🎓 Técnico em Desenvolvimento de Sistemas
 - 🔭 Trabalhando com Desenvolvimento de Sistemas e Automação de Processos
-- 🌱 Atualmente aprendendo [Angular](https://angular.io/) e [C-Sharp](https://dotnet.microsoft.com/en-us/languages/csharp)
+- 🌱 Atualmente aprendendo e trabalhando com [Angular](https://angular.io/) e [C-Sharp](https://dotnet.microsoft.com/en-us/languages/csharp)
 - 💬 Pergunte sobre qualquer coisa relacionada a tecnologia, ficarei feliz em ajudar
 ### 🔨 Linguagens e Ferramentas
 ![HTML5](https://raw.githubusercontent.com/gist/Eduardokopp/298e57fe4ebaf4cd5f34341b505635da/raw/574da6ba1ecea932efc6b43b9e660912b756518b/html5.svg)
