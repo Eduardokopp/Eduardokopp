@@ -1,4 +1,3 @@
-<img align="right" heigth="590em" src="https://raw.githubusercontent.com/gist/Eduardokopp/0141e656308ab4acf6f43b3c21a89641/raw/fbd6ca7d2a0a374946215369ce6cb91b4e0d7749/githubcard.svg"/>
 <h1 align="left">Hi, I'm Eduardo Kopp</h1>
 
 
